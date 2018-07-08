@@ -1,0 +1,4 @@
+org\jsquare\appconfigmgmt\application\ApplicationConfigurationManagement.class
+org\jsquare\appconfigmgmt\dao\impl\AcmDaoPropertyFileImpl.class
+org\jsquare\appconfigmgmt\dao\AcmDao.class
+org\jsquare\appconfigmgmt\services\AcmSearchServices.class

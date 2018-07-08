@@ -1,0 +1,24 @@
+/**
+ * AcmMaintenanceServices.java
+ * REST Services for maintaining/administering Application Configurations
+ * Jeff Stone (jeffreylstone)
+ * 20180702
+ * 
+ */
+package org.jsquare.appconfigmgmt.services;
+
+import javax.ws.rs.core.MediaType;
+
+/**
+ * @author jeffreylstone
+ *
+ */
+public class AcmMaintenanceServices {
+	
+//	private final Logger logger = 
+//			LoggerFactory.getLogger(AcmMaintenanceServices.class);
+
+	
+	
+
+}
